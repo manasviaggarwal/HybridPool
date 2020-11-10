@@ -30,14 +30,14 @@ Requirements:
 
 Parameters:
 1) For Graph Classification:
-	dataset: The name of the dataset
-	epoch: Number of epochs to train the model
-	learning_rate: Learning rate
-	embd_dim: Final Embedding dimension
-	gcn_layer: Number of GCN layers
-	gcn_dim: GCN Embedding dimension
-	dropout: Dropout rate
-	batch_size: Batch size
+	1.1 dataset: The name of the dataset
+	1.2 epoch: Number of epochs to train the model
+	1.3 learning_rate: Learning rate
+	1.4 embd_dim: Final Embedding dimension
+	1.5 gcn_layer: Number of GCN layers
+	1.6 gcn_dim: GCN Embedding dimension
+	1.7 dropout: Dropout rate
+	1.8 batch_size: Batch size
 
 
 We can specify these parameters while running python file.
