@@ -30,6 +30,7 @@ Requirements:
 
 Parameters:
 1) For Graph Classification:
+experiment
 	1.1 dataset: The name of the dataset
 	1.2 epoch: Number of epochs to train the model
 	1.3 learning_rate: Learning rate
